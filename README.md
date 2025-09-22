@@ -6,7 +6,7 @@ Out of the seven competitions I participated in, I achieved top rankings in two 
 
 ## 1. Early Prediction of At-Risk Students (107th out of 2,691) 
 
-In this competition, the goal was to develop a predictive model that identifies students at risk of underperforming or dropping out. I worked with a dataset of over 80,000 student records, featuring various demographic and academic variables. Here, I achieved an accuracy of **83.76%** using a stacked ensemble model that combined the two models - tuned XGBoost and tuned LightGBM. This placed me in the **top 4% of competitors** (107th out of 2,691).
+In this competition, the goal was to develop a predictive model that identifies students at risk of underperforming or dropping out. I worked with a dataset of over 80,000 student records, featuring various demographic and academic variables. Here, I achieved an accuracy of **83.76%** using a stacked ensemble model that combined the two models - tuned XGBoost and tuned LightGBM. This placed me in the **top 4% of competitors**.
 
 Key techniques I used in this model include:
   
@@ -30,7 +30,7 @@ Key techniques I used in this model include:
 
 ## 2. Identifying Introverts vs. Extroverts (473rd out of 4,331)
 
-The second competition challenged participants to predict whether individuals were introverts or extroverts based on a dataset of roughly 19,000 samples. I achieved an accuracy of 96.90% using a straightforward LightGBM model augmented with effective feature engineering. This effort earned me a place in the top 10% (473rd out of 4,331 competitors).
+The second competition challenged participants to predict whether individuals were introverts or extroverts based on a dataset of roughly 19,000 samples. I achieved an accuracy of 96.90% using a straightforward LightGBM model augmented with effective feature engineering. This effort earned me a place in the top 10%.
 
 Key aspects of this project included:
 
