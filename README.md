@@ -2,7 +2,7 @@
 
 Attached to my repository are the Kaggle notebooks I created for various competitions in the Playground Series. These competitions provide an excellent opportunity to refine my data science skills, and I’m excited to share my work here.
 
-Out of the seven competitions I participated in, I achieved top rankings in two classification problems, placing in the **top 4%** and **top 10%** among thousands of competitors. Below is a brief overview of these competitions:
+Out of the six competitions (excluding Body Fat prediction) I participated in, I achieved top rankings in two classification problems, placing in the **top 4%** and **top 10%** among thousands of competitors. Below is a brief overview of these competitions:
 
 ## 1. Early Prediction of At-Risk Students (107th out of 2,691) 
 
