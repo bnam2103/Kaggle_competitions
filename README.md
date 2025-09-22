@@ -30,7 +30,7 @@ Key techniques I used in this model include:
 
 ## 2. Identifying Introverts vs. Extroverts (473rd out of 4,331)
 
-The second competition challenged participants to predict whether individuals were introverts or extroverts based on a dataset of roughly 19,000 samples. I achieved an accuracy of 96.90% using a straightforward LightGBM model augmented with effective feature engineering. This effort earned me a place in the top 10%.
+The second competition challenged participants to predict whether individuals were introverts or extroverts based on a dataset of roughly 19,000 samples. I achieved an accuracy of 96.90% using a straightforward LightGBM model with effective feature engineering. This effort earned me a place in the top 10%.
 
 Key aspects of this project included:
 
